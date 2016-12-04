@@ -2,3 +2,9 @@ abcs
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 May not always have internet connection---???
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork: create a copy of github repo to github repo
+clone: create copy of github on local machine
+branch: create a copy of commit
